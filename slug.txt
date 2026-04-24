@@ -2,7 +2,7 @@
 # Format: Channel Name = slug
 # Add * before slug to force mprod-cdn (e.g., BD vs NZ = *bdvsnz26)
 
- BFL | Live 4 = match-4
+ BFL | Live 4 = *match-4
 & Pictures HD = andpicture_hd
 &TV HD = and_tv_hd
 Ananda TV = anandatv
@@ -11,7 +11,7 @@ Animal Planet HD = animal_planet_hd
 Asian TV = asian_tv
 B4U Movies APAC = b4u_movies
 B4U Music = b4u_music
-BD vs IRE = bd_vs_ire
+BD vs IRE = *bd_vs_ire
 BD vs NZ = *bdvsnz26
 BFL | Live 1 = *match-11
 BFL | Live 2 = *match-12
@@ -84,4 +84,5 @@ Zee Cafe = zee_cafe_hd
 Zee Cinema HD = zee_cinema_hd
 Zee TV HD = zee_tv_hd
 Zing = zing_sd
-বলীখেলা = 
+বলীখেলা = *boligiri26
+Toffee Sports = sports_highlights
