@@ -51,6 +51,7 @@ HUM Sitaray = hum_sitaray
 ICC Test Championship Highlights = *icc_wtc_final
 Independent TV = independent_tv
 Investigation Discovery HD = discovary_investigation_hd
+Islamic TV = *islamic_tv
 Jamuna TV = jamuna_tv
 Mohona TV = mohona_tv
 Movie Bangla = movie_bangla
