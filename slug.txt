@@ -17,6 +17,7 @@ BFL | Live 1 = *match-11
 BFL | Live 2 = *match-12
 BFL | Live 3 = *match-13
 BFL | Live 4 = *match-18
+BFL | Live 5 = *match-5
 Bangla TV = bangla_tv
 Bangladesh Tri Nation's Cup | Live = *match-20
 Bangladesh VS Pakistan = *bdvsnz26
