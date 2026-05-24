@@ -37,6 +37,7 @@ Discovery Turbo = discovery_turbo
 EPL Channel 4 = *match-4
 EPL Channel 5 = *match-5
 EPL Channel 6 = *match-6
+EPL Channel 9 = match-9
 EPL channel 1 = *match-1
 EPL channel 2 = *match-2
 EPL channel 3 = *match-3
