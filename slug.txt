@@ -81,6 +81,7 @@ Sony Ten Sports 2 HD = sony_sports_2_hd
 Sony Ten Sports 5 HD = sony_sports_5_hd
 Sony Ten Sports 5 HD  = sony_sports_5_hd
 Sony YAY = sonyyay
+TEST SRT = FIFA-2026-Set-Test
 TLC = tlc_sd
 TLC HD = tlc_hd
 Toffee Dramas = toffee_drama
