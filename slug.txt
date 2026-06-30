@@ -87,6 +87,7 @@ TLC HD = tlc_hd
 Toffee Dramas = toffee_drama
 Toffee Movies = toffee_movie
 Toffee Sports = sports_highlights
+WC Match Recap = FIFA-2026-6
 Zee Action = zee_action
 Zee Anmol = zee_anmol
 Zee Bangla = zee_bangla
