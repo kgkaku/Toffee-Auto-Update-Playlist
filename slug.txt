@@ -49,6 +49,7 @@ EPL channel 8 = *match-8
 Ekattor TV = ekattor_tv
 Ekhon TV = ekhon_tv
 Eurosport HD = euro_sports_hd
+FIFA WC CHANNEL 4 = FIFA-2026-4
 FIFA WC Channel 1 = *FIFA-2026
 Global TV = globaltv
 HUM = hum_tv
