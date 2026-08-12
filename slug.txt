@@ -87,6 +87,7 @@ TLC HD = tlc_hd
 Toffee Dramas = toffee_drama
 Toffee Movies = toffee_movie
 Toffee Sports = sports_highlights
+Toffee TV = toffee_drama
 WC Match Recap = fifa_world_cup
 Zee Action = zee_action
 Zee Anmol = zee_anmol
