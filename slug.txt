@@ -53,6 +53,7 @@ Ekhon TV = ekhon_tv
 Eurosport HD = euro_sports_hd
 FIFA WC CHANNEL 4 = *FIFA-2026-4
 FIFA WC Channel 1 = *FIFA-2026
+France 24 = france_24
 Global TV = globaltv
 HUM = hum_tv
 HUM Masala = hum_masala
